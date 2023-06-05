@@ -12,7 +12,10 @@ I'm a Python Developer that's passionate about coding, delving deep into new tec
 *   🚀  I'm currently working on [MeetingTracker](http://https://github.com/Carson3822/MeetingTracker)
 *   🧠  I'm learning CyberSecurity and Data Science
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Im Aquaman, that's right I breath underwater### Skills 
+*   ⚡  Im Aquaman, that's right I breath underwater
+  
+### Skills 
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
