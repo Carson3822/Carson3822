@@ -24,9 +24,7 @@ I'm a Python Developer that's passionate about coding, delving deep into new tec
                     
 ### Socials
                                  
-<p align="left"> 
-<a href="https://www.github.com/Carson3822" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/carson-shields-46896b205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Carson3822" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carson-shields-46896b205/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
