@@ -12,7 +12,7 @@ I'm a Python Developer that's passionate about coding, delving deep into new tec
 *   🚀  I'm currently working on [MeetingTracker](http://https://github.com/Carson3822/MeetingTracker)
 *   🧠  I'm learning CyberSecurity and Data Science
 *   🤝  I'm open to collaborating on Projects
-*   ⚡  Im Aquaman, that's right I breath underwater
+*   ⚡  I'm Aquaman, that's right I breath underwater
   
 ### Skills 
 
