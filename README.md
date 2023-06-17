@@ -10,8 +10,8 @@ I'm a Python Developer that's passionate about coding, delving deep into new tec
 *   🖥️  See my portfolio at [http://www.shields-technologies.com](http://https://www.linkedin.com/in/carson-shields-46896b205/)
 *   ✉️  You can contact me at [carson3822@icloud.com](mailto:carson3822@icloud.com)
 *   🚀  I'm currently working on [MeetingTracker](http://https://github.com/Carson3822/MeetingTracker)
-*   🧠  I'm learning CyberSecurity and Data Science
-*   🤝  I'm open to collaborating on Projects
+*   🧠  I'm learning DSA and System Design
+*   🤝  I'm open to collaborating on projects
 *   ⚡  I'm Aquaman, that's right I breath underwater
   
 ### Skills 
