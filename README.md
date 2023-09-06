@@ -7,7 +7,7 @@ Python Developer
 I'm a Python Developer that's passionate about coding, delving deep into new technologies, and improving every day. I started my coding journey at University with a data science minor while pursuing a BS in business. Pursuing the data science minor was a great experience. I was introduced to important computer science principles and started with my first programing language, Python. Needless to say, I was hooked. After learning Core Python, I worked with libraries like numpy and scipy to process data and visualization tools like matplotlib and Tableau to visualize it. I dove into concepts such as DBMS and database systems, learned SQL, and got my feet wet with Git/GitHub. After graduating, I didn't write any code for about six months as I searched for a job that matched my Business major. After working a job I largely hated doing repetitive, mind-numbing work, I remembered my love for coding and Python. Fast Forward to Today, eight months later, I have Completed a Python developer boot camp, started two new courses on data science and cybersecurity, built projects, and have been thrilled to code every day.
 
 *   🌍  I'm based in Saint Petersburg FL
-*   🖥️  See my portfolio at [http://www.shields-technologies.com](http://https://www.linkedin.com/in/carson-shields-46896b205/)
+*   🖥️  See my portfolio at [carson3822.pythonanywhere.com]((http://carson3822.pythonanywhere.com/index.html)
 *   ✉️  You can contact me at [carson3822@icloud.com](mailto:carson3822@icloud.com)
 *   🚀  I'm currently working on [MeetingTracker](http://https://github.com/Carson3822/MeetingTracker)
 *   🧠  I'm learning DSA and System Design
